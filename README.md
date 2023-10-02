@@ -1,2 +1,2 @@
-# backend-warehouse-testing
+# backend-testing
 New project to learn
